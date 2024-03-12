@@ -3,7 +3,7 @@ trigger:
 - main
 
 pool:
-  name: default
+  name:default
 
 jobs:
 - job: Build
